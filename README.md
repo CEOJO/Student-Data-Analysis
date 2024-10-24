@@ -1,6 +1,6 @@
 # Student-Data-Analysis
 
-This project examines the financial circumstances facing students whose data was included in the data. The data should provide an idea of the direction of students' cash flow, through the use of matplotlib and seaborn line and bar plots.
+This project examines students' financial circumstances. The data should provide an idea of the direction of students' cash flow, through the use of matplotlib and seaborn line and bar plots.
 
 ## Downloading the Dataset
 
